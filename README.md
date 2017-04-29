@@ -1,4 +1,6 @@
-# Dependencies: cv2, flask.
+# Restful server for smart marka
+
+
 Install =>
 
-pip install cv2 flask
+pip install flask
